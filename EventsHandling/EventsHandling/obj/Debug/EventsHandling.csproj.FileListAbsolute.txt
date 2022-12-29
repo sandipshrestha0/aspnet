@@ -1,0 +1,26 @@
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\bin\Debug\EventsHandling.exe
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\bin\Debug\EventsHandling.pdb
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.csproj.AssemblyReference.cache
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.dashboard.resources
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.Login.resources
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.Properties.Resources.resources
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.csproj.GenerateResource.cache
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.csproj.CoreCompileInputs.cache
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.exe
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.pdb
+C:\Users\sandip\source\repos\EventsHandling\EventsHandling\obj\Debug\EventsHandling.Insert.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\bin\Debug\EventsHandling.exe
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\bin\Debug\EventsHandling.pdb
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.csproj.AssemblyReference.cache
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.dashboard.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.Home.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.Insert.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.Login.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.Properties.Resources.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.csproj.GenerateResource.cache
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.csproj.CoreCompileInputs.cache
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.exe
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.pdb
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.show.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.update.resources
+E:\5th sem\ASP NET\EventsHandling\EventsHandling\obj\Debug\EventsHandling.search.resources
