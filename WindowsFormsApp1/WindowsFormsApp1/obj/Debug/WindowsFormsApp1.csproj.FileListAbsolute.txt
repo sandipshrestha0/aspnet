@@ -1,0 +1,56 @@
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NegativePositive.resources
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sum.resources
+E:\5th sem\c #\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dashboard.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.calculator.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dashboard.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NegativePositive.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sum.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.imgSlider.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBilling.resources
+E:\5th sem\.net\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentData.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.calculator.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dashboard.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBilling.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.imgSlider.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NegativePositive.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentData.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sum.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\5th sem\net c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.calculator.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dashboard.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBilling.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.imgSlider.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NegativePositive.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentData.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sum.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\5th sem\ASP NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

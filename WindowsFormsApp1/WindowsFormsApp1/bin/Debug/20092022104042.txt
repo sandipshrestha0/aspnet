@@ -1,0 +1,9 @@
+ABC Co. Ltd
+Kathmandu
+ph:123456
+Bill#:20092022104042	 Customer Name:Customer
+Date:2022-09-20
+
+Sno	Item Name		Qty	Rate	Amount
+1	PWE		1	10	10
+thank you for visiting us!!

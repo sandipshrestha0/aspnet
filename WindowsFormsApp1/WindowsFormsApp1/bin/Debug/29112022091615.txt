@@ -1,0 +1,10 @@
+ABC Co. Ltd
+Kathmandu
+ph:123456
+Bill#:29112022091615	 Customer Name:Customer
+Date:2022-11-29
+
+Sno	Item Name		Qty	Rate	Amount
+1	pencil		2	100	200
+2	pen		22	100	2200
+thank you for visiting us!!

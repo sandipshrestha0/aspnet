@@ -1,0 +1,7 @@
+ABC Co. Ltd
+Kathmandu
+ph:123456
+Bill#:20092022102735	 Customer Name:Customer
+Date:2022-09-20
+
+Sno	Item Name		Qty	Rate	Amount
